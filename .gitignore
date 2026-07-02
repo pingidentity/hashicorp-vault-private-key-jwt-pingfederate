@@ -1,0 +1,24 @@
+# Build artifacts
+/bin/
+/dist/
+/tmp/
+/vault-plugins/
+
+# Go
+*_test.go
+*.out
+coverage.*
+
+# Local Vault / config / secrets
+*.hcl
+*.pem
+*.key
+*.crt
+*.token
+
+# Editor / OS
+.DS_Store
+**/.DS_Store
+
+# Internal validation tooling
+/scripts/
