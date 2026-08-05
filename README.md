@@ -164,4 +164,5 @@ optionally `scope`. No Vault lease is created.
 
 ## License
 
-To be determined.
+Licensed under the Apache License, Version 2.0. See [LICENSE](LICENSE) for the
+full text.
