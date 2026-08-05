@@ -4,6 +4,10 @@
 /tmp/
 /vault-plugins/
 
+# Release binaries + checksums produced by `make release`
+/vault-plugin-secrets-pingfederate-*-*
+/vault-plugin-secrets-pingfederate-*-*.sha256
+
 # Go
 *.out
 coverage.*

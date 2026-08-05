@@ -162,6 +162,16 @@ optionally `scope`. No Vault lease is created.
 - Access to token paths should be restricted with Vault policies so that
   only authorized workloads can retrieve tokens.
 
+## Contributing
+
+Contributions are welcome! Please feel free to submit a Pull Request.
+
+## Feedback & Issues
+
+We welcome your feedback! Please use this repository's issue tracker to submit
+feedback, bug reports, or enhancement requests. For existing issues, you can add
+a 👍 reaction to help our team gauge priority.
+
 ## License
 
 Licensed under the Apache License, Version 2.0. See [LICENSE](LICENSE) for the
